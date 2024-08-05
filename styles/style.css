@@ -251,16 +251,6 @@ body {
   font-weight: 400;
   padding: 0px 50px 88px 50px;
 }
-.footer__address {
-  line-height: 24px;
-  font-style: unset;
-}
-.footer__menu li {
-  display: flex;
-  flex-direction: column;
-  list-style-type: none;
-  text-align: center;
-}
 .footer__menu-list {
   list-style: none;
   text-align: center;
